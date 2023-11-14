@@ -5,4 +5,4 @@ This is just a simple calculator, in HTML, CSS and JavaScript, for all screen si
 ![calculator](https://github.com/diogo-s4ntos/Calculator/assets/117995697/4d01d5b8-817b-42f8-b1e4-315de2f2f8a7)
 
 <h1>Link:</h1>
-Live site URL: <a href="https://diogo-s4ntos.github.io/Calculator/">Click Here</a>
+<li>Live site URL: <a href="https://diogo-s4ntos.github.io/Calculator/">Click Here</a></li>
